@@ -1,2 +1,2 @@
-console.log("ADIOS MUNDO 2");
+console.log("Hola mundo");
 console.log("Adios mundo");
